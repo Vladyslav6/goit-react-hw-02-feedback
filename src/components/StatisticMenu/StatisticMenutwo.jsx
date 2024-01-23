@@ -1,5 +1,3 @@
-import Styles from '../FeedBack/Feedback.module.css';
-
 const StatisticMenu = ({ Good, Neutral, Bad, PosFeedback, total }) => {
   return (
     <>

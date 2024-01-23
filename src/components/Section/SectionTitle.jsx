@@ -1,5 +1,3 @@
-import Styles from '../FeedBack/Feedback.module.css';
-
 const SectionTitle = ({ Title, children }) => {
   return (
     <div>
